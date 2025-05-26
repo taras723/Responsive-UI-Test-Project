@@ -57,8 +57,8 @@ responsive-ui/
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
-   cd responsive-ui
+   git clone https://github.com/taras723/Responsive-UI-Test-Project.git
+   cd Responsive-UI-Test-Project
    ```
 
 2. **Install Dependencies**:
