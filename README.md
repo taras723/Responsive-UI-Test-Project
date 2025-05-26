@@ -125,8 +125,8 @@ responsive-ui/
 
 2. **Deploy to Vercel**:
    - Connect your repository to Vercel.
-   - Set environment variables (if needed) in Vercel dashboard (e.g., `NEXT_PUBLIC_API_URL=http://your-api-url`).
-   - Deploy and get the live URL (e.g., `https://responsive-ui.vercel.app`).
+   - Set environment variables (if needed) in Vercel dashboard (e.g., `NEXT_PUBLIC_API_URL=[http://your-api-url](https://responsive-ui-api-latest.onrender.com)`).
+   - Deploy and get the live URL (e.g., `[https://responsive-ui.vercel.app](https://responsive-ui-test-project.vercel.app/)`).
 
 ### Alternative Deployment (Netlify)
 - Follow Netlify’s Next.js deployment guide, adjusting the build command to `npm run build`.
@@ -153,8 +153,8 @@ This project is for demonstration purposes. Feel free to modify and use it under
 
 ## Demo
 
-- Live demo available at: [Insert Vercel/Netlify URL after deployment]
-- Repository: [Insert GitHub/GitLab URL]
+- Live demo available at: (https://responsive-ui-test-project.vercel.app/)
+- Repository: (https://github.com/taras723/Responsive-UI-Test-Project)
 
 ---
 
