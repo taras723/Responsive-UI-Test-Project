@@ -1,0 +1,60 @@
+
+{
+  "users": [
+    {
+      "id": "d4ac",
+      "email": "test@gmail.com",
+      "password": "Richardivory112!"
+    }
+  ],
+  "orders": [
+    {
+      "id": "15325",
+      "transactionId": 15325,
+      "date": "12.06.2024",
+      "status": "Success",
+      "gameName": "Ernadd",
+      "gameId": 152353263623,
+      "amount": 153.26,
+      "goods": {
+        "item1": 279999,
+        "itemDiscount": 74999,
+        "count": 40500,
+        "plusCount": 1500,
+        "total": 279999
+      }
+    },
+    {
+      "id": "15325",
+      "transactionId": 15325,
+      "date": "12.06.2024",
+      "status": "Success",
+      "gameName": "Ernadd",
+      "gameId": 152353263623,
+      "amount": 153.26,
+      "goods": {
+        "item1": 279999,
+        "itemDiscount": 74999,
+        "count": 40500,
+        "plusCount": 1500,
+        "total": 279999
+      }
+    },
+    {
+      "id": "15325",
+      "transactionId": 15325,
+      "date": "12.06.2024",
+      "status": "Success",
+      "gameName": "Ernadd",
+      "gameId": 152353263623,
+      "amount": 153.26,
+      "goods": {
+        "item1": 279999,
+        "itemDiscount": 74999,
+        "count": 40500,
+        "plusCount": 1500,
+        "total": 279999
+      }
+    }
+  ]
+}
