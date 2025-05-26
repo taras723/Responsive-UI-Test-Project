@@ -41,7 +41,7 @@ export default function OrdersPage() {
     useEffect(() => {
         const fetchOrders = async () => {
             try {
-                const response = await fetch('http://localhost:3001/orders');
+                const response = await fetch(`${process.env.NEXT_PUBLIC_JSON_SERVER_URL}/orders`);
                 const data = await response.json();
                 setOrders(data);
                 setLoading(false);
